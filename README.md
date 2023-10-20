@@ -35,6 +35,8 @@ Op de websites kreeg ik een goeie uislag voor de website, maar niet voor alles. 
 Dit waren mijn test resultaten voor ZVC-veenendaal.
 
 
+### Feedback
+Bij de a knop als pop-up is het een stuk beter om een button tag te gebruiken. 
 
 
 
